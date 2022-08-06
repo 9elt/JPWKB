@@ -1,0 +1,14 @@
+{
+    "manifest_version" : 3,
+    "name" : "JPWKB (test)",
+    "version": "0.0.1",
+    "description": "japanese keyboard layout for web pages only",
+    "permissions": ["tabs"],
+    "host_permissions": ["<all_urls>"],
+    "content_scripts" : [
+        {
+            "matches" : ["<all_urls>"],
+            "js" : ["layout.js", "style.js", "content.js"]
+        }
+    ]
+}
