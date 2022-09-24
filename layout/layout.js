@@ -21,7 +21,8 @@ layout structure
 
 */
 
-const JPWKB_LAYOUT = {
+const jp_layout = {
+
     'Backquote' : [ ['ぬ', 'ヌ', '', ''], ['',''], ['',''] ],
     'Digit1' : [ ['ふ', 'フ', '', ''], ['ぶ','ぷ'], ['ブ','プ'] ],
     'Digit2' : [ ['あ', 'ア', 'ぁ', 'ァ'], ['',''], ['',''] ],
