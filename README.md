@@ -14,6 +14,11 @@ Download the [minified](https://github.com/9elt/jp-web-keyboard/tree/min) branch
 #### type directly in your keyboard
 visual feedback is displayed on the GUI
 
+
+<kbd>
+<img src="https://github.com/9elt/jp-web-keyboard/blob/readme_media/media/jp-web-keyboard.jpg?v=0001" data-canonical-src="https://github.com/9elt/jisho-on-the-fly/blob/readme_media/media/definition.jpg" width="480" />
+</kbd>
+
 #### or click on the GUI keys
 
 ## Limitations
