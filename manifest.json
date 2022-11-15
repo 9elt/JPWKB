@@ -1,9 +1,9 @@
 {
     "manifest_version" : 3,
-    "name" : "japanese web keyboard",
-    "version": "1.0.0",
-    "description": "hiragana layout for web pages",
-    "permissions": ["tabs"],
+    "name" : "Web Japanese Keyboard",
+    "version": "1.0.1",
+    "description": "japanese interactive keyboard for web pages",
+    "permissions": [],
     "host_permissions": ["<all_urls>"],
     "content_scripts" : [
         {

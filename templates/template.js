@@ -1,5 +1,4 @@
-const keyboard_extension_template = `
-
+const JP_keyboard_extension_template = `
 <style>
 
     .dark {
@@ -86,7 +85,7 @@ const keyboard_extension_template = `
         transform: translateY(2px);
     }
 
-    .alphabet.active {
+    .alph.active {
         color: var(--accent);
     }
 
@@ -169,9 +168,9 @@ const keyboard_extension_template = `
 
         <ul class="row">
             <li class="key-action s2" data-code="Tab" data-action="cycle">
-                <span class="alphabet alphabet-1 active">あ</span>
+                <span class="alph alph-0 active">あ</span>
                 |
-                <span class="alphabet alphabet-2">ア</span>
+                <span class="alph alph-1">ア</span>
             </li>
             <li class="key"></li>
             <li class="key"></li>
@@ -225,5 +224,4 @@ const keyboard_extension_template = `
 
     </div>
 </div>
-
 `
