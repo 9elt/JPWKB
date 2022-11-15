@@ -1,3 +1,4 @@
 # Japanese web keyboard
+**chrome extension**
 
-minified branch
+Minified branch
